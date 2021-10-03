@@ -32,7 +32,7 @@ cd projeto-andre
 ```bash
 git clone https://github.com/AndreBarroso/sd-010-a-project-shopping-cart.git
 ```
-4. Entre acesse a pasta criada executando o comando a seguir:
+4. Acesse a pasta criada executando o comando a seguir:
 ```bash
 cd sd-010-a-project-shopping-cart
 ```
@@ -44,12 +44,8 @@ npm install;
 
 6. Agora você pode fechar o terminal;
 
-6. Acesse a pasta com todos os arquvos e dê um duplo clique no arquivo index.
+7. Acesse a pasta com todos os arquivos e dê um duplo clique no arquivo index.
 O site rodará em seu navegador.
-
-
-Dica: use uma IDE ou interpretador com suporte a JavaScript para executar as funções 
-que estão sendo testadas.
 
 Para quaisquer dúvidas, entre em contato comigo pelo email: andrefb.eng1@gmail.com .
 
