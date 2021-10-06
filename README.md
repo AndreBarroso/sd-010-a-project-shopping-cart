@@ -1,7 +1,7 @@
 # Boas vindas ao repositório do projeto Carrinho de Compras!
-A proposta desse projeto foi desenvolver um site no estilo e-commerce com um carrinho de compras dinâmico consumindo dados diretamente de uma API! Aqui foi usada a API dp Mercado Livre para a busca dos produtos à venda.
+A proposta desse projeto, foi desenvolver um site no estilo e-commerce com um carrinho de compras dinâmico consumindo dados diretamente de uma API! Aqui, foi usada a API do Mercado Livre para a busca dos produtos à venda.
 
-Esse foi um projeto muito desafiador, pois envolvia o uso de uma funcionalidade muito nova pra mim. O JavaScript assíncrono. Entender o funcionamento das requisições de API, as promises e todos os demais elementos sobre assincronidade, envolveram um nível de abstração diferente de tudo que eu já havia vivido na programação. Considero também esse um projeto muito marcante, pois na sua conclusão, pude enxergar como meu nível como desenvolvedor começava a alcançar outro patamar. Além disso, foi muito gratificante ver o resultado final onde o projeto se comportava como uma verdadeira loja virtual com produtos reais.  
+Esse foi um projeto muito desafiador, pois envolvia o uso de uma funcionalidade muito nova pra mim. O JavaScript assíncrono. Entender o funcionamento das requisições de API, as promises e todos os demais elementos sobre assincronicidade, envolveram um nível de abstração diferente de tudo que eu já havia vivido na programação. Considero também esse um projeto muito marcante, pois na sua conclusão, pude enxergar como meu nível como desenvolvedor começava a alcançar outro patamar. Além disso, foi muito gratificante ver o resultado final onde o projeto se comportava como uma verdadeira loja virtual com produtos reais.  
 
 
 ---
